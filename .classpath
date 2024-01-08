@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/mysql-connector-j-8.0.33.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/AdvanceJava"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DynamicProject"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Hibernate_pro"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HibernateDemo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Hibernet_demo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Induction"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Javaprogram"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/productservice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ServletConfigContext"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Servlets"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SpringIOCAnnotation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SpringIOCxml"/>
+	<classpathentry kind="lib" path="D:/Apache/apache-tomcat-10.1.15/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Apache/apache-tomcat-9.0.82/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
